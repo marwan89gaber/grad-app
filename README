@@ -1,0 +1,32 @@
+# AI Legal Assistant (Graduation Project)
+
+Mobile-first legal consultation app featuring AI chat, lawyer discovery, and booking flows.
+
+## Projects
+- **Flutter app:** `FlutterFrontEnd/virtual_lawyer`
+- **Web prototype:** `front-end/Graduation-Project-main`
+
+## Tech Stack
+- Flutter (Dart)
+- React + Vite + Tailwind CSS
+
+## Getting Started
+
+### Flutter
+```bash
+cd FlutterFrontEnd/virtual_lawyer
+flutter pub get
+flutter run
+```
+
+Web Frontend
+```bash
+cd front-end/Graduation-Project-main
+npm install
+npm run dev
+```
+
+Configuration
+```bash
+Create a .env file if you have any API keys or configuration.
+```
