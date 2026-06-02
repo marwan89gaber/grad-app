@@ -19,14 +19,14 @@ flutter pub get
 flutter run
 ```
 
-Web Frontend
+## Web Frontend
 ```bash
 cd front-end/Graduation-Project-main
 npm install
 npm run dev
 ```
 
-Configuration
+## Configuration
 ```bash
 Create a .env file if you have any API keys or configuration.
 ```
